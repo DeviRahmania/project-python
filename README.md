@@ -6,7 +6,9 @@
 ## flow chart
 
 untuk menentukan langkah-langkah luas dan keliling lingkaran sebagai berikut
+
 ![img](gambar/flowchart.png)
+
 
 # Menghitung luas dan keliling 
 ## code untuk menghitung 
@@ -31,10 +33,12 @@ Berikut cara menghitung luas dan keliling lingkaran
 
 ## Output
 contoh output  bila dimasukan jari-jari dengan nilai 28
+
 ![img](gambar/output.png)
 
 ## Penjelasan 
 untuk mengambil 2 angka pecahan saja kita pakai fungsi format '.2f' seperti berikut:
+
 ![img](gambar/penjelasan.png)
 
 dengan rumus seperti diatas dapat mengambil kesimpulan 2 angka dibelakang titik
