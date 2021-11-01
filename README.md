@@ -31,7 +31,7 @@ Berikut cara menghitung luas dan keliling lingkaran
 
 ## Output
 contoh output bila dimasukan jari-jari dengan nilai 28
-![img](gmbar/output.png)
+![img](gambar/output.png)
 
 ## Penjelasan 
 untuk mengambil 2 angka pecahan saja kita pakai fungsi format '.2f' seperti berikut:
