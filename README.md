@@ -30,7 +30,7 @@ Berikut cara menghitung luas dan keliling lingkaran
     dan r adalah jari jari lingkaran
 
 ## Output
-contoh output bila dimasukan jari-jari dengan nilai 28
+contoh output  bila dimasukan jari-jari dengan nilai 28
 ![img](gambar/output.png)
 
 ## Penjelasan 
